@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+}
+
+@font-face {
+    font-family: "EmblemaOne";
+    src: url("http://bye7733.github.io/journal2/font/EmblemaOne-Regular.ttf"), 
+    url("http://bye7733.github.io/journal2/font/EmblemaOne-Regular.woff");
+}
+
+h1 {
+    font-size: 150%;
+    
+}
+
+h2 {
+    font-size: 125%;
+}

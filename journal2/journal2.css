@@ -4,14 +4,14 @@ body {
 }
 
 @font-face {
-    font-family: "EmblemaOne";
+    font-family: "Emblema One";
     src: url("http://bye7733.github.io/journal2/font/EmblemaOne-Regular.ttf"), 
     url("http://bye7733.github.io/journal2/font/EmblemaOne-Regular.woff");
 }
 
 h1 {
     font-size: 150%;
-    font-family: EmblemaOne
+    font-family: Emblema One;
 }
 
 h2 {

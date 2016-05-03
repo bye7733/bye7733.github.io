@@ -1,0 +1,48 @@
+
+
+
+h1{
+    font-size: 350%;
+    color: #E85E00;
+    text-align:center;
+ background-color: #E8DB5E;
+    width: 1100px;
+
+}
+
+
+h2{
+    font-family: "setofont";
+    font-size: 200%
+    font-weight:bold;
+
+
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+
+
+    h2.green,
+    p.green {
+       color: #85B036;
+    }
+    
+    h2.blue,
+    p.blue {
+        color: #4BBBEA;
+    }
+    
+    h2.purple,
+    p.purple {
+        color: #A15EB1;
+    }
+    
+    h2.red,
+    p.red {
+        color: #B70000;
+    }
+    </style>

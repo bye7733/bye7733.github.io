@@ -1,0 +1,29 @@
+body{
+    font-family: Verdana,Arial,sans-serif;
+}
+
+h1{
+    font-family: "setofont";
+}
+
+
+    h2.green,
+    p.green {
+        color: green
+    }
+    
+    h2.blue,
+    p.blue {
+        color: blue
+    }
+    
+    h2.purple,
+    p.purple {
+        color: purple
+    }
+    
+    h2.red,
+    p.red {
+        color: red
+    }
+    </style>

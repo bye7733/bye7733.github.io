@@ -22,16 +22,16 @@ body{
     
     h2.blue,
     p.blue {
-        color: blue
+        color: #4BBBEA
     }
     
     h2.purple,
     p.purple {
-        color: purple
+        color: #A15EB1
     }
     
     h2.red,
     p.red {
-        color: red
+        color: #B70000
     }
     </style>

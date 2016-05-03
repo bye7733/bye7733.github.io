@@ -1,4 +1,10 @@
 
+body{
+background-color: #E8E868
+
+}
+
+
 h1{
     font-size: 350%;
 }
@@ -18,7 +24,7 @@ body{
 
     h2.green,
     p.green {
-       color: #98C93F
+       color: #85B036
     }
     
     h2.blue,

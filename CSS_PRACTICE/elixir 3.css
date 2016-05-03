@@ -1,10 +1,16 @@
 
+h1{
+    font-size: 300%;
+}
+
 h2{
     font-family: "setofont";
+    font-size: 200%
 }
 
 body{
     font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
 }
 
 

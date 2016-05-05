@@ -4,16 +4,23 @@
 
             padding: 10%;
             padding-left: 20%;
+
             line-height: 40px;
-            margin: 20px;
-            margin top: 20px;
+
+            
+            margin:100px;
+            margin-top: 50px;
+            margin-left:100px; 
             margin-bottom: 200px;
             margin: auto;
+
+
             border-style: dotted;
             border-color: #FFFFFF;
             border-width: 3px;
             border-radius: 20px;
+
             background-image: url(images/star-none.png);
-            background-position: top padding-left;
+            background-position: top left;
             background-repeat: no-repeat;
         }

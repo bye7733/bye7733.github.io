@@ -4,8 +4,19 @@
                 background-color: #f6e652;
                 position: relative;
                 font-family: 'Roboto', sans-serif;
+                width: 97%;
                 
             }
+
+            .bg {
+            box-sizing: border-box;
+            width: 920px;
+            height: 920px;
+            background-color: #f6e652;
+            position: relative;
+            margin: auto;
+
+        }
             
             .circle1 {
                 box-sizing: border-box;
@@ -18,10 +29,11 @@
                 background-color: #FF6500;
                 
                 top: -75px;
-                left: 320px;
+                left: 139px;
                 color:#f6e652;
                 position: absolute;
             }
+
             
  .circle2 {
                 box-sizing: border-box;
@@ -35,13 +47,17 @@
                 background-color: #97461D;
                
                 top: 230px;
-                left: 230px;
+                left: 30px;
                 color:#FCF3FF;
                 padding-top:65px;
                  padding-left:30px;
                 position: absolute;
                  
             }
+
+            .circle2 table {
+            margin: auto;
+        }
 
             .circle3 {
                 box-sizing: border-box;
@@ -54,7 +70,7 @@
                 background-color: #FFFFFF;
                 
                 top:180px;
-                left:430px;
+                left:230px;
                 color:#833300;
                 position: absolute;
             }
@@ -73,7 +89,7 @@
                 background-color: #FFFFFF;
                 
                 top: 110px;
-                left: 780px;
+                left: 580px;
                 position: absolute;
 
             }
@@ -92,6 +108,7 @@
                 right: 50px;
                 color:#FFFFFF;
                 position: fixed;
+                padding-top: 5px;
             }
 
             .circle6 {
@@ -107,8 +124,10 @@
                 background-color: #FF6500;
 
                 
-                bottom: -20px;
-                left: 350px;
+                bottom: 150px;
+                left: 250px;
                 color:#f6e652;
-                position: fixed;
+                position: absolute;
+
+
             }
